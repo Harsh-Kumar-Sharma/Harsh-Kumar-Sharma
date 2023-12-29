@@ -1,13 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Harsh-Kumar-Sharma</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 <img align="right" alt="coding" width="400"
     src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 <br>
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=harsh-kumar-sharma&label=Profile%20views&color=0e75b6&style=flat"
-        alt="harsh-kumar-sharma" />
-</p>
 
 - 🔭 I’m currently working on **Automatic Fastag System**
 

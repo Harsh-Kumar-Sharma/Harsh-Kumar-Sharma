@@ -1,3 +1,4 @@
+![logo]([https://github.com/Harsh-Kumar-Sharma/Harsh-Kumar-Sharma/edit/main/Screenshot(328).png])
 <h1 align="center">Hi 👋, I'm Harsh-Kumar-Sharma</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 <img align="right" alt="coding" width="400"
